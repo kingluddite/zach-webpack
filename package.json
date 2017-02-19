@@ -1,0 +1,19 @@
+{
+  "name": "zach-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "uglifyjs-webpack-plugin": "^0.1.5",
+    "webpack": "^2.2.1"
+  }
+}
